@@ -1,0 +1,8 @@
+I-O:		a (IN)	_1_ (CELL)	_4_ (CELL)	e (OUT)	
+I-O:		a (IN)	_1_ (CELL)	c (OUT)	
+I-O:		a (IN)	_2_ (CELL)	_3_ (CELL)	d (OUT)	
+I-O:		a (IN)	_2_ (CELL)	_4_ (CELL)	e (OUT)	
+I-O:		b (IN)	_1_ (CELL)	_4_ (CELL)	e (OUT)	
+I-O:		b (IN)	_1_ (CELL)	c (OUT)	
+I-O:		b (IN)	_2_ (CELL)	_3_ (CELL)	d (OUT)	
+I-O:		b (IN)	_2_ (CELL)	_4_ (CELL)	e (OUT)	

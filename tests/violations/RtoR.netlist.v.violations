@@ -1,0 +1,40 @@
+------------------------------------------
+	 	 	 Setup Violated 
+------------------------------------------
+	 	 	 RR path 
+node name      cell_type 
+    d__7_          DFFPOSX1       
+_6_            AND2X2         
+q__5_          DFFPOSX1       
+clk                           
+_3_            NAND2X1        
+------------------------------------------
+	 	 	 Setup Violated 
+------------------------------------------
+	 	 	 RR path 
+node name      cell_type 
+    d__7_          DFFPOSX1       
+_6_            AND2X2         
+q__5_          DFFPOSX1       
+clk                           
+_3_            NAND2X1        
+------------------------------------------
+	 	 	 Setup Violated 
+------------------------------------------
+	 	 	 RR path 
+node name      cell_type 
+    d__7_          DFFPOSX1       
+_6_            AND2X2         
+q__5_          DFFPOSX1       
+clk                           
+_3_            NAND2X1        
+------------------------------------------
+	 	 	 Setup Violated 
+------------------------------------------
+	 	 	 RR path 
+node name      cell_type 
+    d__7_          DFFPOSX1       
+_6_            AND2X2         
+q__5_          DFFPOSX1       
+clk                           
+_3_            NAND2X1        

@@ -1,0 +1,9 @@
+START	a
+START	b
+START	c
+a	_4_
+b	_2_
+c	_3_
+_2_	_4_
+_3_	_4_
+_4_	d

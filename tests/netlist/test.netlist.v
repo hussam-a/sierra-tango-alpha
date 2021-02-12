@@ -1,0 +1,1 @@
+module test(a, b, c, d);  wire _0_;  wire _1_;  input a;  input b;  input c;  output d;  INVX1 _2_ (    .A(b),    .Y(_0_)  );  INVX1 _3_ (    .A(c),    .Y(_1_)  );  AOI21X1 _4_ (    .A(_0_),    .B(_1_),    .C(a),    .Y(d)  );endmodule

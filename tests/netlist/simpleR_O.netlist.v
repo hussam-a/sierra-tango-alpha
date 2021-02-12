@@ -1,0 +1,1 @@
+module simpleR_O(a, d, clk, rst, y);  wire _0_;  input a;  wire c;  input clk;  input d;  input rst;  output y;  AND2X2 _1_ (    .A(a),    .B(c),    .Y(y)  );  AND2X2 _2_ (    .A(d),    .B(rst),    .Y(_0_)  );  DFFPOSX1 _3_ (    .CLK(clk),    .D(_0_),    .Q(c)  );endmodule

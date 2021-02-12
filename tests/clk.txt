@@ -1,0 +1,4 @@
+clk 5
+skew 0.1
+setup 100
+hold 0.1

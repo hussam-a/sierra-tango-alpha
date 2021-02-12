@@ -1,0 +1,1 @@
+module andingoring(a, b, c, d, e);  wire _0_;  input a;  input b;  output c;  output d;  output e;  AND2X2 _1_ (    .A(a),    .B(b),    .Y(c)  );  NOR2X1 _2_ (    .A(a),    .B(b),    .Y(_0_)  );  INVX1 _3_ (    .A(_0_),    .Y(d)  );  NOR2X1 _4_ (    .A(_0_),    .B(c),    .Y(e)  );endmodule

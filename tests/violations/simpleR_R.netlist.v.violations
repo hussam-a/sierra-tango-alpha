@@ -1,0 +1,40 @@
+------------------------------------------
+	 	 	 Setup Violated 
+------------------------------------------
+	 	 	 RR path 
+node name      cell_type 
+    d__6_          DFFPOSX1       
+clk                           
+q__4_          DFFPOSX1       
+_2_            OR2X2          
+_5_            AND2X2         
+------------------------------------------
+	 	 	 Setup Violated 
+------------------------------------------
+	 	 	 RR path 
+node name      cell_type 
+    d__6_          DFFPOSX1       
+clk                           
+q__4_          DFFPOSX1       
+_2_            OR2X2          
+_5_            AND2X2         
+------------------------------------------
+	 	 	 Setup Violated 
+------------------------------------------
+	 	 	 RR path 
+node name      cell_type 
+    d__6_          DFFPOSX1       
+clk                           
+q__4_          DFFPOSX1       
+_2_            OR2X2          
+_5_            AND2X2         
+------------------------------------------
+	 	 	 Setup Violated 
+------------------------------------------
+	 	 	 RR path 
+node name      cell_type 
+    d__6_          DFFPOSX1       
+clk                           
+q__4_          DFFPOSX1       
+_2_            OR2X2          
+_5_            AND2X2         
