@@ -8,6 +8,12 @@ sierra-tango-alpha is a library of open-source binaries for static timing analys
 - Islam Faisal (https://github.com/decltypeme)
 - Gehad Mohamed (https://github.com/Gehad66)
 
+## Features
+
+-	Parses Standard Cell library and digital circuit into a direct acyclic graph.
+-	Describes all timing paths. Calculates data arrival and required times and slack. 
+- Reports hold time and setup time violations and their offending paths.
+
 ## Source Files
 
 ```
